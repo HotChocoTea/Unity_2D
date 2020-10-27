@@ -1,0 +1,4 @@
+在开始界面场景创建好ui后，把mainmenu脚本挂上去
+InitButton挂在主菜单上
+在游戏scene里把pausemenu挂到相应的组件上
+（ps 使用的时候注意一下LoadScene ，更改一下）
